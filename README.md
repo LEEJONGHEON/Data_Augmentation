@@ -9,3 +9,5 @@
 - Copy-Paste : https://paperswithcode.com/paper/simple-copy-paste-is-a-strong-data
 - CopyPairing : https://arxiv.org/abs/1909.00390
 - AugNet : https://paperswithcode.com/paper/augnet-end-to-end-unsupervised-visual
+- Population Based Augmentation : https://paperswithcode.com/paper/190505393
+- Random Erasing Data Augmentation : https://paperswithcode.com/paper/random-erasing-data-augmentation
